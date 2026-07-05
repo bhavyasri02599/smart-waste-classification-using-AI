@@ -1,0 +1,1 @@
+# smart-waste-classification-using-AI
