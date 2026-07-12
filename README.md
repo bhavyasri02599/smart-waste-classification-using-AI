@@ -180,6 +180,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Your Name** - kilaparthi sasank (kilaparthisasank@gmail.com)
-
-Project Link: [https://github.com/shanks874/smart-waste-classifier](https://github.com/yourusername/smart-waste-classifier)
+**Your Name** -bhavya talluri (bhavyathalluri446@gmail.com)
+Project Link: https://github.com/bhavyasri02599/smart-waste-classification-using-AI.git
